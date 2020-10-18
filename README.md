@@ -1,6 +1,7 @@
 # LeetCode
 
 ### LeetCode Algorithm Challenges
+Feel free to contribute when you find bug/type/improvement with pull requests! Thanks!:grinning:
 | # | Title | Language | Tags |
 |---| ----- | -------- | ---- |
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](./Java/src/questions/RepeatedDNASequences), [Python](./Python/questions/RepeatedDNASequences)|Hash Table|
