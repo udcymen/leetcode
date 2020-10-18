@@ -14,7 +14,7 @@ public class RepeatedDNASequences {
         for (int i = 0; i < s.length() - 10 + 1; i++) {
             String temp = s.substring(i, i + 10);
 
-            if (visited.contains(temp)){
+            if (visited.contains(temp)) {
                 result.add(temp);
             }
 
@@ -24,7 +24,7 @@ public class RepeatedDNASequences {
         return new ArrayList<String>(result);
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         System.out.println(RepeatedDNASequences.findSequences("AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"));
         System.out.println(RepeatedDNASequences.findSequences("AAAAAAAAAAAAA"));
     }
