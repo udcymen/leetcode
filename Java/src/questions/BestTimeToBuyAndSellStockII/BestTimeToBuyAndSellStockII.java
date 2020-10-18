@@ -1,3 +1,5 @@
+package questions.BestTimeToBuyAndSellStockII;
+
 public class BestTimeToBuyAndSellStockII {
     public static int maxProfit(int[] prices) {
         int result = 0;

@@ -1,15 +1,13 @@
-import sys
-
 def maxProfit(prices: list[int]) -> int:
-        result = 0
+    result = 0
+    
+    for i in range(1, len(prices)):
+        prev, curr = prices[i - 1], prices[i]
         
-        for i in range(1, len(prices)):
-            prev, curr = prices[i - 1], prices[i]
+        if curr > prev:
+            result += curr - prev
             
-            if curr > prev:
-                result += curr - prev
-                
-        return result
+    return result
 
 if __name__ == "__main__":
     print(maxProfit([7,1,5,3,6,4]))
