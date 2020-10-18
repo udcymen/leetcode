@@ -1,9 +1,11 @@
-import utilities.java.TreeNode;
+package questions.SumofRootToLeafBinaryNumbers;
 
-public class sumRootToLeaf {
+import utilities.TreeNode;
+
+public class SumofRootToLeafBinaryNumbers {
 
     /* Attempt 1
-    private void dfs(TreeNode root, String path, List<String> results) {
+    private static void dfs(TreeNode root, String path, List<String> results) {
         path += String.valueOf(root.val);
 
         if (root.left == null && root.right == null){
@@ -19,7 +21,7 @@ public class sumRootToLeaf {
         }
     }
 
-    public int sumRootToLeaf(TreeNode root) {
+    public static int sumRootToLeaf(TreeNode root) {
         int result = 0;
 
         if (root == null){
@@ -38,7 +40,7 @@ public class sumRootToLeaf {
      */
 
     // Faster Solution
-    private int dfs(TreeNode root, int result){
+    private static int dfs(TreeNode root, int result){
         if (root == null){
             return 0;
         }
@@ -53,7 +55,7 @@ public class sumRootToLeaf {
         }
     }
 
-    public static int sumofRootToLeafBinaryNumbers(TreeNode root){
+    public static int sumRootToLeaf(TreeNode root){
         return dfs(root, 0);
     }
 
@@ -68,6 +70,7 @@ public class sumRootToLeaf {
         right.left = new TreeNode(0);
         right.right = new TreeNode(1);
 
-        System.out.println(sumRootToLeaf.sumofRootToLeafBinaryNumbers(root));
+        System.out.println(SumofRootToLeafBinaryNumbers.sumRootToLeaf(root));
     }
 }
+

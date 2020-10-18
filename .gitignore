@@ -351,3 +351,6 @@ MigrationBackup/
 
 # Visual Studio Code Setting
 .vscode
+
+# Intellj Setting
+.idea

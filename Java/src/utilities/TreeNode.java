@@ -1,4 +1,4 @@
-package utilities.java;
+package utilities;
 
 public class TreeNode {
     public int val;
