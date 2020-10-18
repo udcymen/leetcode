@@ -354,3 +354,6 @@ MigrationBackup/
 
 # Intellj Setting
 .idea
+
+# Java Complied Class
+out
