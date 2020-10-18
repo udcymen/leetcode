@@ -8,23 +8,27 @@ For all leaves in the tree, consider the numbers represented by the path from th
 Return the sum of these numbers. The answer is guaranteed to fit in a 32-bits integer.
 
 ### Examples
+```
 Example 1:  
 Input: root = [1,0,1,0,1,0,1]  
 Output: 22  
 Explanation: (100) + (101) + (110) + (111) = 4 + 5 + 6 + 7 = 22
-
+```
+```
 Example 2:  
 Input: root = [0]  
 Output: 0
-
+```
+```
 Example 3:  
 Input: root = [1]  
 Output: 1
-
+```
+```
 Example 4:  
 Input: root = [1,1]  
 Output: 3
-
+```
 ### Constraints
 Constraints:
 The number of nodes in the tree is in the range [1, 1000].  
