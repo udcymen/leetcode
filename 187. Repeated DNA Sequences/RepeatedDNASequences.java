@@ -6,9 +6,8 @@ Time and Space Complexity:
 Time: O(len(s))
 Space: O(len(s))
 Actual Time: 18 ms
-Space: 47.6 MB
+Actual Space: 47.6 MB
 */
-
 
 import java.util.*;
 

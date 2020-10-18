@@ -6,11 +6,10 @@ Time and Space Complexity:
 Time: O(len(s))
 Space: O(len(s))
 Actual Time: 68 ms
-Space: 27.5 MB
+Actual Space: 27.5 MB
 """
 
 from collections import Counter
-
 
 def findRepeatedDnaSequences(s: str) -> list[str]:
         if len(s) < 10:
