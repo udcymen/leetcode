@@ -1,7 +1,11 @@
 ## 1022. Sum of Root To Leaf Binary Numbers
 
 ### Question
-You are given the root of a binary tree where each node has a value 0 or 1. Each root-to-leaf path represents a binary number starting with the most significant bit. For example, if the path is 0 -> 1 -> 1 -> 0 -> 1, then this could represent 01101 in binary, which is 13. For all leaves in the tree, consider the numbers represented by the path from the root to that leaf. Return the sum of these numbers. The answer is guaranteed to fit in a 32-bits integer.
+You are given the root of a binary tree where each node has a value 0 or 1. Each root-to-leaf path represents a binary number starting with the most significant bit. For example, if the path is 0 -> 1 -> 1 -> 0 -> 1, then this could represent 01101 in binary, which is 13.
+
+For all leaves in the tree, consider the numbers represented by the path from the root to that leaf. 
+
+Return the sum of these numbers. The answer is guaranteed to fit in a 32-bits integer.
 
 ### Examples
 Example 1:  
@@ -27,10 +31,10 @@ The number of nodes in the tree is in the range [1, 1000].
 Node.val is 0 or 1.
 
 ### Run Environment
-Java JDK 14
+Python 3.9
 
 ### Time and Space Complexity:
 Time: O(n)
 Space: O(1)  
-Actual Time: 
-Actual Space: 
+Actual Time: 40 ms  
+Actual Space: 14.3 MB

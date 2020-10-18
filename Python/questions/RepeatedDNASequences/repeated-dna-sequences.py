@@ -1,6 +1,6 @@
 from collections import Counter
 
-def findRepeatedDnaSequences(s: str) -> list[str]:
+def find_repeated_dna_sequences(s: str) -> list[str]:
         if len(s) < 10:
             return []
         
@@ -10,5 +10,5 @@ def findRepeatedDnaSequences(s: str) -> list[str]:
 
 
 if __name__ == "__main__":
-    print(findRepeatedDnaSequences("AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"))
-    print(findRepeatedDnaSequences("AAAAAAAAAAAAA"))
+    print(find_repeated_dna_sequences("AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"))
+    print(find_repeated_dna_sequences("AAAAAAAAAAAAA"))
