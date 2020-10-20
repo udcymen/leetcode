@@ -1,6 +1,6 @@
 # LeetCode
 
-## IDE
+### IDE
 Visual Studio Code && Intellij  
 
 ### LeetCode Algorithm Challenges
