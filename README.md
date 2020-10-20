@@ -1,8 +1,7 @@
 # LeetCode
 
 ## IDE
-Python: Visual Studio Code  
-Java: Intellij
+Visual Studio Code && Intellij  
 
 ### LeetCode Algorithm Challenges
 Feel free to contribute when you find bug/type/improvement with pull requests! Thanks!:grinning:
