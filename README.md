@@ -2,8 +2,8 @@
 
 ### LeetCode Algorithm Challenges
 Feel free to contribute when you find bug/type/improvement with pull requests! Thanks!:grinning:
-| # | Title | Language | Tags |
-|---| ----- | -------- | ---- |
+|   #   |  Title  |  Language  |  Tags  |
+| :---: | :-----: | :--------: | :----: |
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./Java/src/questions/BestTimeToBuyAndSellStockI), [Python](./Python/questions/BestTimeToBuyAndSellStockI)||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./Java/src/questions/BestTimeToBuyAndSellStockII), [Python](./Python/questions/BestTimeToBuyAndSellStockII)||
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](./Java/src/questions/BestTimeToBuyAndSellStockIII), [Python](./Python/questions/BestTimeToBuyAndSellStockIII)|Two State|
