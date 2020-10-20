@@ -6,5 +6,5 @@ Python 3.9
 ### Time and Space Complexity:
 Time: O(len(A) + len(B))  
 Space: O(1)  
-Actual Time: 1036 ms
+Actual Time: 1036 ms  
 Actual Space: 14.9 MB
