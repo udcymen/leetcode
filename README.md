@@ -4,7 +4,7 @@
 Visual Studio Code && Intellij  
 
 ### LeetCode Algorithm Challenges
-Feel free to contribute when you find bug/type/improvement with pull requests! Thanks!:grinning:
+Feel free to send me a pull request if you find any bug/typo/improvement with pull requests! Thanks!:grinning:
 |   #   |  Title  |  Language  |  Tags  |
 | :---: | :-----: | :--------: | :----: |
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./Java/src/questions/SearchInsertPosition), [Python](./Python/questions/SearchInsertPosition)|Binary Search|
