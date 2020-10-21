@@ -7,6 +7,7 @@ Visual Studio Code && Intellij
 Feel free to send me a pull request if you find any bug/typo/improvement with pull requests! Thanks!:grinning:
 |   #   |  Title  |  Language  |  Tags  |
 | :---: | :-----: | :--------: | :----: |
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./Python/questions/SearchInRotatedSortedArray)|Binary Search|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./Java/src/questions/SearchInsertPosition), [Python](./Python/questions/SearchInsertPosition)|Binary Search|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./Java/src/questions/SearchA2DMatrix), [Python](./Python/questions/SearchA2DMatrix)|Binary Search|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./Java/src/questions/BestTimeToBuyAndSellStock), [Python](./Python/questions/BestTimeToBuyAndSellStock)||
