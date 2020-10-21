@@ -19,6 +19,7 @@ def dfs(node: TreeNode, result: int):
 def sum_root_to_leaf(root: TreeNode) -> int:
     return dfs(root, 0)
 
+
 if __name__ == "__main__":
     root = TreeNode(1)
     root.left = TreeNode(0)

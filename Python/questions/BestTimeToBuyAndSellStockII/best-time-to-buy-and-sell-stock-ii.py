@@ -9,6 +9,7 @@ def maxProfit(prices: list[int]) -> int:
             
     return result
 
+
 if __name__ == "__main__":
     print(maxProfit([7,1,5,3,6,4]))
     print(maxProfit([1,2,3,4,5]))
