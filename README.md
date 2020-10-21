@@ -19,5 +19,6 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](./Java/src/questions/RepeatedDNASequences), [Python](./Python/questions/RepeatedDNASequences)|Hash Table|
 |240|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix-ii)|[Python](./Python/questions/SearchA2DMatrixII)|Binary Search|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](./Python/questions/FirstBadVersion)|Binary Search|
+|735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Python](./Python/questions/AsteroidCollision)|Stack|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Python](./Python/questions/MinimumDominoRotationsForEqualRow)||
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Java](./Java/src/questions/SumofRootToLeafBinaryNumbers), [Python](./Python/questions/SumofRootToLeafBinaryNumbers)|Binary Tree|
