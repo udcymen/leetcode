@@ -6,12 +6,12 @@ Python 3.9
 ### Time and Space Complexity:
 #### Solution 1: Recursion
 Time: O(n)  
-Space: O(1)  
+Space: O(n) - function call stack
 Actual Time: 32 ms  
 Actual Space: 14.1 MB
 
-#### Solution 2: Non-Recursion
+#### Solution 2: Iterative
 Time: O(n)  
-Space: O(1)  
+Space: O(n)  
 Actual Time: 32 ms  
 Actual Space: 14.1 MB

@@ -5,7 +5,7 @@ class TreeNode:
         self.right = right
 
 
-# Solution 2: Non-Recursion
+# Solution 2: Iterative
 def preorderTraversal(root: TreeNode) -> list[int]:
     result = []
         
