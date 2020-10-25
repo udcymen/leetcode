@@ -21,6 +21,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](./Python/questions/BinaryTreePreorderTraversal)|Binary Tree|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](./Python/questions/BinaryTreePostorderTraversal)|Binary Tree|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](./Python/questions/FindPeakElement)|Binary Search|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](./Python/questions/BinarySearchTreeIterator)|Binary Tree|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](./Java/src/questions/RepeatedDNASequences), [Python](./Python/questions/RepeatedDNASequences)|Hash Table|
 |240|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix-ii)|[Python](./Python/questions/SearchA2DMatrixII)|Binary Search|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](./Python/questions/FirstBadVersion)|Binary Search|
