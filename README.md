@@ -7,6 +7,7 @@ Visual Studio Code && Intellij
 Feel free to send me a pull request if you find any bug/typo/improvement with pull requests! Thanks!:grinning:
 |   #   |  Title  |  Language  |  Tags  |
 | :---: | :-----: | :--------: | :----: |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./Python/questions/TwoSum)|HashMap|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](./Python/questions/AddTwoNumbers)|Linked List|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](./Python/questions/LongestSubstringWithoutRepeatingCharacters)|HashMap|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](./Java/src/questions/MedianofTwoSortedArrays), [Python](./Python/questions/MedianofTwoSortedArrays)|Binary Search|
