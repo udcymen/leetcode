@@ -7,6 +7,7 @@ Visual Studio Code && Intellij
 Feel free to send me a pull request if you find any bug/typo/improvement with pull requests! Thanks!:grinning:
 |   #   |  Title  |  Language  |  Tags  |
 | :---: | :-----: | :--------: | :----: |
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](./Python/questions/AddTwoNumbers)|Linked List|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](./Java/src/questions/MedianofTwoSortedArrays), [Python](./Python/questions/MedianofTwoSortedArrays)|Binary Search|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./Python/questions/SearchInRotatedSortedArray)|Binary Search|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./Java/src/questions/SearchInsertPosition), [Python](./Python/questions/SearchInsertPosition)|Binary Search|
