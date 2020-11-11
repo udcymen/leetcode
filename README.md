@@ -39,6 +39,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Python](./Python/questions/MinimumHeightTrees)|Graph|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python](./Python/questions/AddTwoNumbersII)|Linked List|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python](./Python/questions/BinaryTreeTilt)|Binary Tree|
+|593|[Valid Square](https://leetcode.com/problems/valid-square/)|[Python](./Python/questions/ValidSquare)|Math|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Python](./Python/questions/AsteroidCollision)|Stack|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Python/questions/FlippingAnImage)||
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Python](./Python/questions/MinimumDominoRotationsForEqualRow)||
