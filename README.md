@@ -16,6 +16,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./Python/questions/SearchInRotatedSortedArray)|Binary Search|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./Java/src/questions/SearchInsertPosition), [Python](./Python/questions/SearchInsertPosition)|Binary Search|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Python](./Python/questions/Permutations)|DFS|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Python](./Python/questions/PermutationsII)|DFS|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Python](./Python/questions/RotateList)|Linked List|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](./Python/questions/UniquePaths)|DP|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Python](./Python/questions/UniquePathsII)|DP|
