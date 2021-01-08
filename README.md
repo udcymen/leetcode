@@ -13,6 +13,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](./Java/src/questions/MedianofTwoSortedArrays), [Python](./Python/questions/MedianofTwoSortedArrays)|Binary Search|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](./Python/questions/LongestPalindromicSubstring)||
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](./Python/questions/ZigZagConversion)|Math|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./Python/questions/Remove DuplicatesFromSortedArray)|Two Pointers|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./Python/questions/SearchInRotatedSortedArray)|Binary Search|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./Java/src/questions/SearchInsertPosition), [Python](./Python/questions/SearchInsertPosition)|Binary Search|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Python](./Python/questions/Permutations)|DFS|
