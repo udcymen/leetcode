@@ -58,3 +58,4 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[Python](./Python/questions/FindTheSmallestDivisorGivenAThreshold)|Binary Search|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](./Python/questions/ConvertBinaryNumberInALinkedListToInteger)|Linked List|
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](./Python/questions/ConsecutiveCharacters)||
+|1640|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)|[Python](./Python/questions/CheckArrayFormationThroughConcatenation)|HashMap|
