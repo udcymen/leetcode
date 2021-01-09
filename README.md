@@ -27,6 +27,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./Java/src/questions/SearchA2DMatrix), [Python](./Python/questions/SearchA2DMatrix)|Binary Search|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](./Python/questions/SearchInRotatedSortedArrayII)||
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](./Python/questions/MergeSortedArray)||
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](./Python/questions/SymmetricTree)|Binary Tree|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](./Python/questions/MinimumDepthofBinaryTree)|BFS, DFS|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](./Python/questions/PopulatingNextRightPointersInEachNode)|Binary Tree|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./Java/src/questions/BestTimeToBuyAndSellStock), [Python](./Python/questions/BestTimeToBuyAndSellStock)||
