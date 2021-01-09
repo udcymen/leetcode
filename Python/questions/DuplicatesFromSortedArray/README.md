@@ -1,10 +1,10 @@
-## [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+## [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ### Run Environment
 Python 3.9
 
 ### Time and Space Complexity:
-Time: O(log(n))  
+Time: O(n)  
 Space: O(1)  
-Actual Time: 48 ms  
-Actual Space: 14.3 MB
+Actual Time: 164 ms  
+Actual Space: 16.1 MB
