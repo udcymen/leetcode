@@ -36,6 +36,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./Java/src/questions/BestTimeToBuyAndSellStock), [Python](./Python/questions/BestTimeToBuyAndSellStock)||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./Java/src/questions/BestTimeToBuyAndSellStockII), [Python](./Python/questions/BestTimeToBuyAndSellStockII)||
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](./Java/src/questions/BestTimeToBuyAndSellStockIII), [Python](./Python/questions/BestTimeToBuyAndSellStockIII)|Two State|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Python](./Python/questions/BinaryTreeMaximumPathSum)|Binary Tree|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Python](./Python/questions/CloneGraph)|Graph, DFS|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](./Python/questions/BinaryTreePreorderTraversal)|Binary Tree|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](./Python/questions/BinaryTreePostorderTraversal)|Binary Tree|
