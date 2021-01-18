@@ -19,6 +19,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./Java/src/questions/SearchInsertPosition), [Python](./Python/questions/SearchInsertPosition)|Binary Search|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Python](./Python/questions/Permutations)|DFS|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Python](./Python/questions/PermutationsII)|DFS|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](./Python/questions/JumpGame)|DP|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](./Python/questions/MergeIntervals)||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Python](./Python/questions/RotateList)|Linked List|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](./Python/questions/UniquePaths)|DP|
