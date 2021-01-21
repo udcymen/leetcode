@@ -14,6 +14,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](./Python/questions/LongestPalindromicSubstring)||
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](./Python/questions/ZigZagConversion)|Math|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](./Python/questions/ContainerWithMostWater)|Two Pointers|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](./Python/questions/LongestCommonPrefix)||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./Python/questions/RemoveDuplicatesFromSortedArray)|Two Pointers|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./Python/questions/SearchInRotatedSortedArray)|Binary Search|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./Java/src/questions/SearchInsertPosition), [Python](./Python/questions/SearchInsertPosition)|Binary Search|
