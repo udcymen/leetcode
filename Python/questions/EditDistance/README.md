@@ -1,4 +1,4 @@
-## [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+## [72. Edit Distance](https://leetcode.com/problems/edit-distance/)
 
 ### Run Environment
 Python 3.9
