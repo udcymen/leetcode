@@ -39,6 +39,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](./Python/questions/BinaryTreeLevelOrderTraversalII)|BFS|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Python](./Python/questions/BalancedBinaryTree)|Binary Tree|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](./Python/questions/MinimumDepthofBinaryTree)|Binary Tree|
+|115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[Python](./Python/questions/DistinctSubsequences)|DP|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](./Python/questions/PopulatingNextRightPointersInEachNode)|Binary Tree|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Python](./Python/questions/Triangle)|DP|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./Java/src/questions/BestTimeToBuyAndSellStock), [Python](./Python/questions/BestTimeToBuyAndSellStock)||
