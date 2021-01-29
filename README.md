@@ -75,6 +75,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/)|[Python](./Python/questions/PoorPigs)|Math|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python](./Python/questions/BinaryTreeTilt)|Binary Tree|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|[Python](./Python/questions/ValidSquare)|Math|
+|662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python](./Python/questions/MaximumWidthOfBinaryTree)|Binary Tree|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./Python/questions/InsertIntoBinarySearchTree)|Binary Tree|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Python](./Python/questions/AsteroidCollision)|Stack|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Python/questions/FlippingAnImage)|Two Pointers|
