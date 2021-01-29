@@ -70,6 +70,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](./Python/questions/FirstBadVersion)|Binary Search|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](./Python/questions/FindMedianFromDataStream)|Heap|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Python](./Python/questions/MinimumHeightTrees)|Graph|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](./Python/questions/FirstUniqueCharacterInAString)|Stack|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./Python/questions/DecodeString)|Stack|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python](./Python/questions/AddTwoNumbersII)|Linked List|
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/)|[Python](./Python/questions/PoorPigs)|Math|
