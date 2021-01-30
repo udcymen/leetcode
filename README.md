@@ -61,6 +61,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |143|[Binary Tree Preorder Traversal](https://leetcode.com/problems/reorder-list/)|[Python](./Python/questions/ReorderList)|Linked List|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](./Python/questions/BinaryTreePreorderTraversal)|Binary Tree|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](./Python/questions/BinaryTreePostorderTraversal)|Binary Tree|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Python](./Python/questions/LRUCache)|Double Linked List + Hashset|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Python](./Python/questions/InsertionSortList)|Linked List, Insertion Sort|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](./Python/questions/FindPeakElement)|Binary Search|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](./Python/questions/BinarySearchTreeIterator)|Binary Tree|
