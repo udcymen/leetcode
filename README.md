@@ -22,6 +22,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](./Python/questions/JumpGameII)|DP, Greedy|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Python](./Python/questions/Permutations)|DFS|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Python](./Python/questions/PermutationsII)|DFS|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](./Python/questions/GroupAnagrams)|HashSet|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](./Python/questions/JumpGame)|DP, Greedy|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](./Python/questions/MergeIntervals)||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Python](./Python/questions/RotateList)|Linked List|
