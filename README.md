@@ -19,7 +19,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./Python/questions/RemoveDuplicatesFromSortedArray)|Two Pointers|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./Python/questions/SearchInRotatedSortedArray)|Binary Search|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./Java/src/questions/SearchInsertPosition), [Python](./Python/questions/SearchInsertPosition)|Binary Search|
-|46|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](./Python/questions/JumpGameII)|DP, Greedy|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](./Python/questions/JumpGameII)|DP, Greedy|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Python](./Python/questions/Permutations)|DFS|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Python](./Python/questions/PermutationsII)|DFS|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](./Python/questions/JumpGame)|DP, Greedy|
