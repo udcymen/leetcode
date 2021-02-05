@@ -15,6 +15,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](./Python/questions/ZigZagConversion)|Math|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](./Python/questions/ContainerWithMostWater)|Two Pointers|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](./Python/questions/LongestCommonPrefix)||
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](./Python/questions/3SumClosest)|Two Pointers|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](./Python/questions/MergeKSortedLists)|Linked List|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./Python/questions/RemoveDuplicatesFromSortedArray)|Two Pointers|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./Python/questions/SearchInRotatedSortedArray)|Binary Search|
