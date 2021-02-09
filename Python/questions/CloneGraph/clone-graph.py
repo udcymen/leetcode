@@ -4,23 +4,24 @@ class Node:
         self.neighbors = neighbors if neighbors is not None else []
 
 
-node_dict = {}
-
-def copyNode(node: Node) -> Node:
-    new_node = Node(node.val)
-    node_dict[node] = new_node
+class Solution:
+    nodeDict = {}
     
-    if node.neighbors:
-        for neighbor in node.neighbors:
-            if neighbor in node_dict:
-                new_node.neighbors.append(node_dict[neighbor])
-            else:
-                new_node.neighbors.append(copyNode(neighbor))
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        if not node:
+            return None
         
-    return new_node
-    
-def cloneGraph(node: Node) -> Node:
-    if not node:
-        return None
-    
-    return copyNode(node)
+        return self.cloneNode(node)
+        
+    def cloneNode(self, node: 'Node') -> 'Node':
+        newNode = Node(node.val)
+        self.nodeDict[node] = newNode
+        
+        if node.neighbors:
+            for neighbor in node.neighbors:
+                if neighbor not in self.nodeDict:
+                    self.nodeDict[neighbor] = self.cloneNode(neighbor)
+                
+                newNode.neighbors.append(self.nodeDict[neighbor]) 
+                
+        return newNode
