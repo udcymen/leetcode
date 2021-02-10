@@ -71,6 +71,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](./Python/questions/NumberOfIslands)|DFS|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](./Python/questions/IsomorphicStrings)|String|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./Python/questions/ReverseLinkedList)|Linked List|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](./Python/questions/CourseSchedule)|Graph|
 |240|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix-ii)|[Python](./Python/questions/SearchA2DMatrixII)|Binary Search|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[Python](./Python/questions/ValidAnagram)|HashSet|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](./Python/questions/FirstBadVersion)|Binary Search|
