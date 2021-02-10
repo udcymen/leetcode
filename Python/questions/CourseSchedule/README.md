@@ -4,7 +4,7 @@
 Python 3.9
 
 ### Time and Space Complexity:
-Time: O(n)  
-Space: O(n)  
+Time: O(EV)  E -> num of edges, V -> num of vertex
+Space: O(E + V)  
 Actual Time: 92 ms  
 Actual Space: 15.5 MB
