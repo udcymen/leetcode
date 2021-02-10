@@ -15,6 +15,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](./Python/questions/ZigZagConversion)|Math|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](./Python/questions/ContainerWithMostWater)|Two Pointers|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](./Python/questions/LongestCommonPrefix)||
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](./Python/questions/3SumClosest)|Two Pointers|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](./Python/questions/MergeKSortedLists)|Linked List|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./Python/questions/RemoveDuplicatesFromSortedArray)|Two Pointers|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./Python/questions/SearchInRotatedSortedArray)|Binary Search|
@@ -56,6 +57,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./Java/src/questions/BestTimeToBuyAndSellStockII), [Python](./Python/questions/BestTimeToBuyAndSellStockII)||
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](./Java/src/questions/BestTimeToBuyAndSellStockIII), [Python](./Python/questions/BestTimeToBuyAndSellStockIII)|Two State|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Python](./Python/questions/BinaryTreeMaximumPathSum)|Binary Tree|
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python](./Python/questions/WordLadder)|BFS|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Python](./Python/questions/CloneGraph)|Graph, DFS|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/word-break/)|[Python](./Python/questions/CopyListWithRandomPointer)|Linked List|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Python](./Python/questions/WordBreak)|DP|
@@ -92,6 +94,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Python](./Python/questions/AsteroidCollision)|Stack|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Python/questions/FlippingAnImage)|Two Pointers|
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](./Python/questions/LongestMountainInArray)||
+|853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|[Python](./Python/questions/CarFleet)||
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](./Python/questions/RangeSumOfBST)|Binary Search Tree|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Python](./Python/questions/MinimumDominoRotationsForEqualRow)||
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Java](./Java/src/questions/SumofRootToLeafBinaryNumbers), [Python](./Python/questions/SumofRootToLeafBinaryNumbers)|Binary Tree|
