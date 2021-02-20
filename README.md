@@ -64,6 +64,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python](./Python/questions/WordLadder)|BFS|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python](./Python/questions/PalindromePartitioning)|DFS|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Python](./Python/questions/CloneGraph)|Graph, DFS|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](./Python/questions/SingleNumber)|Bit Manipulation|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/word-break/)|[Python](./Python/questions/CopyListWithRandomPointer)|Linked List|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Python](./Python/questions/WordBreak)|DP|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Python](./Python/questions/WordBreakII)|DFS + Memo|
