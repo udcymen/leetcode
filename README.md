@@ -105,6 +105,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](./Python/questions/LongestMountainInArray)||
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|[Python](./Python/questions/CarFleet)||
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](./Python/questions/RangeSumOfBST)|Binary Search Tree|
+|991|[ Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Python](./Python/questions/BrokenCalculator)|Binary Search|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Python](./Python/questions/MinimumDominoRotationsForEqualRow)||
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Java](./Java/src/questions/SumofRootToLeafBinaryNumbers), [Python](./Python/questions/SumofRootToLeafBinaryNumbers)|Binary Tree|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](./Python/questions/MaximumDifferenceBetweenNodeAndAncestor)|Binary Tree|
