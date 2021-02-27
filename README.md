@@ -106,6 +106,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](./Python/questions/LongestMountainInArray)||
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|[Python](./Python/questions/CarFleet)||
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](./Python/questions/RangeSumOfBST)|Binary Search Tree|
+|946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python](./Python/questions/ValidateStackSequences)|Greedy|
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Python](./Python/questions/BrokenCalculator)|Binary Search|
 |997|[Broken Calculator](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](./Python/questions/SquaresOfASortedArray)|Two Pointers|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Python](./Python/questions/MinimumDominoRotationsForEqualRow)||
