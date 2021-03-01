@@ -106,6 +106,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Python/questions/FlippingAnImage)|Two Pointers|
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](./Python/questions/LongestMountainInArray)||
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|[Python](./Python/questions/CarFleet)||
+|895|[Maximum Frequency Stack](https://leetcode.com/maximum-frequency-stack/)|[Python](./Python/questions/MaximumFrequencyStack)|Stack|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](./Python/questions/RangeSumOfBST)|Binary Search Tree|
 |946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python](./Python/questions/ValidateStackSequences)|Greedy|
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Python](./Python/questions/BrokenCalculator)|Binary Search|
