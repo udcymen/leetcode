@@ -112,8 +112,8 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |895|[Maximum Frequency Stack](https://leetcode.com/maximum-frequency-stack/)|[Python](./Python/questions/MaximumFrequencyStack)|Stack|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](./Python/questions/RangeSumOfBST)|Binary Search Tree|
 |946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python](./Python/questions/ValidateStackSequences)|Greedy|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](./Python/questions/SquaresOfASortedArray)|Two Pointers|
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Python](./Python/questions/BrokenCalculator)|Binary Search|
-|997|[Broken Calculator](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](./Python/questions/SquaresOfASortedArray)|Two Pointers|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Python](./Python/questions/MinimumDominoRotationsForEqualRow)||
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Java](./Java/src/questions/SumofRootToLeafBinaryNumbers), [Python](./Python/questions/SumofRootToLeafBinaryNumbers)|Binary Tree|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](./Python/questions/MaximumDifferenceBetweenNodeAndAncestor)|Binary Tree|
