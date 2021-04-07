@@ -125,4 +125,5 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](./Python/questions/FindNumbersWithEvenNumberOfDigits)||
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[Python](./Python/questions/FilterRestaurants)||
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](./Python/questions/ConsecutiveCharacters)||
+|1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Python](./Python/questions/MinimumOperationsToMakeArrayEqual)|Math|
 |1640|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)|[Python](./Python/questions/CheckArrayFormationThroughConcatenation)|HashMap|
