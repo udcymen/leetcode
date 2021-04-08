@@ -127,3 +127,4 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](./Python/questions/ConsecutiveCharacters)||
 |1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Python](./Python/questions/MinimumOperationsToMakeArrayEqual)|Math|
 |1640|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)|[Python](./Python/questions/CheckArrayFormationThroughConcatenation)|HashMap|
+|1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[Python](./Python/questions/DetermineIfStringHalvesAreAlike)|HashMap|
