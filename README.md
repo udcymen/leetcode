@@ -31,6 +31,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Python](./Python/questions/NQueens)|DFS|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](./Python/questions/JumpGame)|DP, Greedy|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](./Python/questions/MergeIntervals)||
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Python](./Python/questions/SpiralMatrixII)||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Python](./Python/questions/RotateList)|Linked List|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](./Python/questions/UniquePaths)|DP|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Python](./Python/questions/UniquePathsII)|DP|
