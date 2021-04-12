@@ -38,6 +38,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Python](./Python/questions/UniquePathsII)|DP|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](./Python/questions/MinimumPathSum)|DP|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](./Python/questions/ClimbingStairs)|DP|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](./Python/questions/SimplifyPath)|Stack|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Python](./Python/questions/EditDistance)|DP|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./Java/src/questions/SearchA2DMatrix), [Python](./Python/questions/SearchA2DMatrix)|Binary Search|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python](./Python/questions/Subsets)|DFS|
