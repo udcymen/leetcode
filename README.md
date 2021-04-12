@@ -29,6 +29,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](./Python/questions/GroupAnagrams)|HashSet|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](./Python/questions/Powx-n)||
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Python](./Python/questions/NQueens)|DFS|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](./Python/questions/SpiralMatrix)||
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](./Python/questions/JumpGame)|DP, Greedy|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](./Python/questions/MergeIntervals)||
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Python](./Python/questions/SpiralMatrixII)||
