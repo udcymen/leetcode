@@ -106,6 +106,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](./Python/questions/MaxConsecutiveOnes)||
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|[Python](./Python/questions/Minesweeper)|DFS|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python](./Python/questions/BinaryTreeTilt)|Binary Tree|
+|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python](./Python/questions/N-aryTreePreorderTraversal)|Tree|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|[Python](./Python/questions/ValidSquare)|Math|
 |611|[Valid Triangle Number](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python](./Python/questions/ValidTriangleNumber)|Binary Tree|
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python](./Python/questions/MaximumWidthOfBinaryTree)|Binary Tree|
