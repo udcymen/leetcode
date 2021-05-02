@@ -101,6 +101,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](./Python/questions/FirstUniqueCharacterInAString)|Stack|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./Python/questions/DecodeString)|Stack|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./Python/questions/FizzBuzz)||
+|443|[String Compression](https://leetcode.com/problems/string-compression/)|[Python](./Python/questions/StringCompression)|Array|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python](./Python/questions/AddTwoNumbersII)|Linked List|
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/)|[Python](./Python/questions/PoorPigs)|Math|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](./Python/questions/MaxConsecutiveOnes)||
