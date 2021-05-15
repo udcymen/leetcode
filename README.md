@@ -58,7 +58,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[Python](./Python/questions/ConvertSortedListToBinarySearchTree)|Linked List, Binary Tree|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Python](./Python/questions/BalancedBinaryTree)|Binary Tree|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](./Python/questions/MinimumDepthofBinaryTree)|Binary Tree|
-|114|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](./Python/questions/LinkedListCycle)|Linked List|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](./Python/questions/FlattenBinaryTreeToLinkedList)|Binary Tree|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[Python](./Python/questions/DistinctSubsequences)|DP|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](./Python/questions/PopulatingNextRightPointersInEachNode)|Binary Tree|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Python](./Python/questions/Triangle)|DP|
@@ -73,6 +73,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/word-break/)|[Python](./Python/questions/CopyListWithRandomPointer)|Linked List|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Python](./Python/questions/WordBreak)|DP|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Python](./Python/questions/WordBreakII)|DFS + Memo|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](./Python/questions/LinkedListCycle)|Linked List|
 |143|[Binary Tree Preorder Traversal](https://leetcode.com/problems/reorder-list/)|[Python](./Python/questions/ReorderList)|Linked List|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](./Python/questions/BinaryTreePreorderTraversal)|Binary Tree|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](./Python/questions/BinaryTreePostorderTraversal)|Binary Tree|
