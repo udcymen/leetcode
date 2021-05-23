@@ -47,6 +47,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](./Python/questions/RemoveDuplicatesFromSortedList)|Linked List|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[Python](./Python/questions/PartitionList)|Linked List|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](./Python/questions/MergeSortedArray)||
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Python](./Python/questions/DecodeWays)|DP|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python](./Python/questions/ReverseLinkedListII)|Linked List|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Python](./Python/questions/InterleavingString)|DP|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](./Python/questions/ValidateBinarySearchTree)|Binary Tree|
@@ -120,7 +121,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Python/questions/FlippingAnImage)|Two Pointers|
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](./Python/questions/LongestMountainInArray)||
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|[Python](./Python/questions/CarFleet)||
-|890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](./Python/questions/FindAndReplacePattern)||
+|890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](./Python/questions/FindAndReplacePattern)|Hashmap|
 |895|[Maximum Frequency Stack](https://leetcode.com/maximum-frequency-stack/)|[Python](./Python/questions/MaximumFrequencyStack)|Stack|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](./Python/questions/RangeSumOfBST)|Binary Search Tree|
 |946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python](./Python/questions/ValidateStackSequences)|Greedy|
