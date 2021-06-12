@@ -95,6 +95,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[Python](./Python/questions/ImplementQueueUsingStacks)|Stack|
 |240|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix-ii)|[Python](./Python/questions/SearchA2DMatrixII)|Binary Search|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[Python](./Python/questions/ValidAnagram)|HashSet|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](./Python/questions/MissingNumber)|Math|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](./Python/questions/FirstBadVersion)|Binary Search|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](./Python/questions/FindMedianFromDataStream)|Heap|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Python](./Python/questions/MinimumHeightTrees)|Graph|
