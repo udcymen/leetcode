@@ -20,6 +20,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](./Python/questions/MergeKSortedLists)|Linked List|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./Python/questions/RemoveDuplicatesFromSortedArray)|Two Pointers|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./Python/questions/SearchInRotatedSortedArray)|Binary Search|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](./Python/questions/FindFirstAndLastPositionOfElementInSortedArray)|Binary Search|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./Java/src/questions/SearchInsertPosition), [Python](./Python/questions/SearchInsertPosition)|Binary Search|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](./Python/questions/CombinationSum)|DFS|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Python](./Python/questions/CombinationSumII)|DFS|
