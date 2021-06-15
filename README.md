@@ -42,6 +42,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](./Python/questions/SimplifyPath)|Stack|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Python](./Python/questions/EditDistance)|DP|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./Java/src/questions/SearchA2DMatrix), [Python](./Python/questions/SearchA2DMatrix)|Binary Search|
+|77|[Combinations](https://leetcode.com/problems/combinations/)|[Python](./Python/questions/Combinations)|DFS|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python](./Python/questions/Subsets)|DFS|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](./Python/questions/SearchInRotatedSortedArrayII)||
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Python](./Python/questions/RemoveDuplicatesFromSortedListII)|Linked List|
