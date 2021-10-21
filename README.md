@@ -122,6 +122,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |611|[Valid Triangle Number](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python](./Python/questions/ValidTriangleNumber)|Binary Tree|
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Python](./Python/questions/MaximumWidthOfBinaryTree)|Binary Tree|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./Python/questions/InsertIntoBinarySearchTree)|Binary Tree|
+|703|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](./Python/questions/BinarySearch)|Binary Search|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Python](./Python/questions/AsteroidCollision)|Stack|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Python/questions/FlippingAnImage)|Two Pointers|
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](./Python/questions/LongestMountainInArray)||
