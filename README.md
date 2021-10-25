@@ -88,6 +88,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](./Python/questions/FindPeakElement)|Binary Search|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](./Python/questions/BinarySearchTreeIterator)|Binary Tree|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](./Java/src/questions/RepeatedDNASequences), [Python](./Python/questions/RepeatedDNASequences)|Hash Table|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Python/questions/RotateArray)||
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](./Python/questions/NumberOfIslands)|DFS|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](./Python/questions/IsomorphicStrings)|String|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./Python/questions/ReverseLinkedList)|Linked List|
