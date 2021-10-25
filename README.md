@@ -86,9 +86,10 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](./Python/questions/MinStack)|Stack|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](./Python/questions/IntersectionOfTwoLinkedLists)|Linked List|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](./Python/questions/FindPeakElement)|Binary Search|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](./Python/questions/TwoSumII-InpuTarrayIsSorted)|Two Pointers|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](./Python/questions/BinarySearchTreeIterator)|Binary Tree|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](./Java/src/questions/RepeatedDNASequences), [Python](./Python/questions/RepeatedDNASequences)|Hash Table|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Python/questions/RotateArray)||
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Python/questions/RotateArray)|Two Pointers|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](./Python/questions/NumberOfIslands)|DFS|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](./Python/questions/IsomorphicStrings)|String|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./Python/questions/ReverseLinkedList)|Linked List|
