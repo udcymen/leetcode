@@ -126,6 +126,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./Python/questions/InsertIntoBinarySearchTree)|Binary Tree|
 |703|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](./Python/questions/BinarySearch)|Binary Search|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Python](./Python/questions/AsteroidCollision)|Stack|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](./Python/questions/DailyTemperatures)|Stack|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Python/questions/FlippingAnImage)|Two Pointers|
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](./Python/questions/LongestMountainInArray)||
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|[Python](./Python/questions/CarFleet)||
