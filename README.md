@@ -1,10 +1,10 @@
 # LeetCode
 
 ### IDE
-Visual Studio Code && Intellij  
+Visual Studio Code & Intellij  
 
 ### LeetCode Algorithm Challenges
-Feel free to send me a pull request if you find any bug/typo/improvement with pull requests! Thanks!:grinning:
+
 |   #   |  Title  |  Language  |  Tags  |
 | :---: | :-----: | :--------: | :----: |
 |1|Two Sum|[Python](./Python/questions/TwoSum)|HashMap|
