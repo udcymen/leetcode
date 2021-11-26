@@ -10,7 +10,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |1|Two Sum|[Python](./Python/questions/TwoSum)|HashMap|
 |2|Add Two Numbers|[Python](./Python/questions/AddTwoNumbers)|Linked List|
 |3|Longest Substring Without Repeating Characters|[Python](./Python/questions/LongestSubstringWithoutRepeatingCharacters)|HashMap|
-|4|Median of Two Sorted Arrays|[Java](./Java/src/questions/MedianofTwoSortedArrays), Python(./Python/questions/MedianofTwoSortedArrays)|Binary Search|
+|4|Median of Two Sorted Arrays|[Java](./Java/src/questions/MedianofTwoSortedArrays), [Python](./Python/questions/MedianofTwoSortedArrays)|Binary Search|
 |5|Longest Palindromic Substring|[Python](./Python/questions/LongestPalindromicSubstring)||
 |6|ZigZag Conversion|[Python](./Python/questions/ZigZagConversion)|Math|
 |11|Container With Most Water|[Python](./Python/questions/ContainerWithMostWater)|Two Pointers|
@@ -21,7 +21,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |26|Remove Duplicates from Sorted Array|[Python](./Python/questions/RemoveDuplicatesFromSortedArray)|Two Pointers|
 |33|Search in Rotated Sorted Array|[Python](./Python/questions/SearchInRotatedSortedArray)|Binary Search|
 |34|Find First and Last Position of Element in Sorted Array|[Python](./Python/questions/FindFirstAndLastPositionOfElementInSortedArray)|Binary Search|
-|35|Search Insert Position|[Java](./Java/src/questions/SearchInsertPosition), Python(./Python/questions/SearchInsertPosition)|Binary Search|
+|35|Search Insert Position|[Java](./Java/src/questions/SearchInsertPosition), [Python](./Python/questions/SearchInsertPosition)|Binary Search|
 |39|Combination Sum|[Python](./Python/questions/CombinationSum)|DFS|
 |40|Combination Sum II|[Python](./Python/questions/CombinationSumII)|DFS|
 |45|Jump Game II|[Python](./Python/questions/JumpGameII)|DP, Greedy|
@@ -41,7 +41,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |70|Climbing Stairs|[Python](./Python/questions/ClimbingStairs)|DP|
 |71|Simplify Path|[Python](./Python/questions/SimplifyPath)|Stack|
 |72|Edit Distance|[Python](./Python/questions/EditDistance)|DP|
-|74|Search a 2D Matrix|[Java](./Java/src/questions/SearchA2DMatrix), Python(./Python/questions/SearchA2DMatrix)|Binary Search|
+|74|Search a 2D Matrix|[Java](./Java/src/questions/SearchA2DMatrix), [Python](./Python/questions/SearchA2DMatrix)|Binary Search|
 |77|Combinations|[Python](./Python/questions/Combinations)|DFS|
 |78|Subsets|[Python](./Python/questions/Subsets)|DFS|
 |81|Search in Rotated Sorted Array II|[Python](./Python/questions/SearchInRotatedSortedArrayII)||
@@ -65,9 +65,9 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |115|Distinct Subsequences|[Python](./Python/questions/DistinctSubsequences)|DP|
 |116|Populating Next Right Pointers in Each Node|[Python](./Python/questions/PopulatingNextRightPointersInEachNode)|Binary Tree|
 |120|Triangle|[Python](./Python/questions/Triangle)|DP|
-|121|Best Time to Buy and Sell Stock|[Java](./Java/src/questions/BestTimeToBuyAndSellStock), Python(./Python/questions/BestTimeToBuyAndSellStock)||
-|122|Best Time to Buy and Sell Stock II|[Java](./Java/src/questions/BestTimeToBuyAndSellStockII), Python(./Python/questions/BestTimeToBuyAndSellStockII)||
-|123|Best Time to Buy and Sell Stock III|[Java](./Java/src/questions/BestTimeToBuyAndSellStockIII), Python(./Python/questions/BestTimeToBuyAndSellStockIII)|Two State|
+|121|Best Time to Buy and Sell Stock|[Java](./Java/src/questions/BestTimeToBuyAndSellStock), [Python](./Python/questions/BestTimeToBuyAndSellStock)||
+|122|Best Time to Buy and Sell Stock II|[Java](./Java/src/questions/BestTimeToBuyAndSellStockII), [Python](./Python/questions/BestTimeToBuyAndSellStockII)||
+|123|Best Time to Buy and Sell Stock III|[Java](./Java/src/questions/BestTimeToBuyAndSellStockIII), [Python](./Python/questions/BestTimeToBuyAndSellStockIII)|Two State|
 |124|Binary Tree Maximum Path Sum|[Python](./Python/questions/BinaryTreeMaximumPathSum)|Binary Tree|
 |127|Word Ladder|[Python](./Python/questions/WordLadder)|BFS|
 |131|Palindrome Partitioning|[Python](./Python/questions/PalindromePartitioning)|DFS|
@@ -88,7 +88,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |162|Find Peak Element|[Python](./Python/questions/FindPeakElement)|Binary Search|
 |167|Two Sum II - Input array is sorted|[Python](./Python/questions/TwoSumII-InpuTarrayIsSorted)|Two Pointers|
 |173|Binary Search Tree Iterator|[Python](./Python/questions/BinarySearchTreeIterator)|Binary Tree|
-|187|Repeated DNA Sequences|[Java](./Java/src/questions/RepeatedDNASequences), Python(./Python/questions/RepeatedDNASequences)|Hash Table|
+|187|Repeated DNA Sequences|[Java](./Java/src/questions/RepeatedDNASequences), [Python](./Python/questions/RepeatedDNASequences)|Hash Table|
 |189|Rotate Array|[Python](./Python/questions/RotateArray)|Two Pointers|
 |200|Number of Islands|[Python](./Python/questions/NumberOfIslands)|DFS|
 |205|Isomorphic Strings|[Python](./Python/questions/IsomorphicStrings)|String|
@@ -138,7 +138,7 @@ Feel free to send me a pull request if you find any bug/typo/improvement with pu
 |977|Squares of a Sorted Array|[Python](./Python/questions/SquaresOfASortedArray)|Two Pointers|
 |991|Broken Calculator|[Python](./Python/questions/BrokenCalculator)|Binary Search|
 |1007|Minimum Domino Rotations For Equal Row|[Python](./Python/questions/MinimumDominoRotationsForEqualRow)||
-|1022|Sum of Root To Leaf Binary Numbers|[Java](./Java/src/questions/SumofRootToLeafBinaryNumbers), Python(./Python/questions/SumofRootToLeafBinaryNumbers)|Binary Tree|
+|1022|Sum of Root To Leaf Binary Numbers|[Java](./Java/src/questions/SumofRootToLeafBinaryNumbers), [Python](./Python/questions/SumofRootToLeafBinaryNumbers)|Binary Tree|
 |1026|Maximum Difference Between Node and Ancestor|[Python](./Python/questions/MaximumDifferenceBetweenNodeAndAncestor)|Binary Tree|
 |1143|Longest Common Subsequence|[Python](./Python/questions/LongestCommonSubsequence)||
 |1217|Minimum Cost to Move Chips to The Same Position|[Python](./Python/questions/MinimumCostToMoveChipsToTheSamePosition)||
