@@ -147,6 +147,7 @@ Visual Studio Code & Intellij
 |1290|Convert Binary Number in a Linked List to Integer|[Python](./Python/questions/ConvertBinaryNumberInALinkedListToInteger)|Linked List|
 |1295|Find Numbers with Even Number of Digits|[Python](./Python/questions/FindNumbersWithEvenNumberOfDigits)||
 |1333|Filter Restaurants by Vegan-Friendly, Price and Distance|[Python](./Python/questions/FilterRestaurants)||
+|1344|Angle Between Hands of a Clock|[Python](./Python/questions/AngleBetweenHandsOfAClock)|Math|
 |1446|Consecutive Characters|[Python](./Python/questions/ConsecutiveCharacters)||
 |1448|Count Good Nodes in Binary Tree|[Python](./Python/questions/CountGoodNodesInBinaryTree)||
 |1551|Minimum Operations to Make Array Equal|[Python](./Python/questions/MinimumOperationsToMakeArrayEqual)|Math|
