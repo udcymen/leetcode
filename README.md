@@ -100,6 +100,7 @@ Visual Studio Code & Intellij
 |232|Implement Queue using Stacks|[Python](./Python/questions/ImplementQueueUsingStacks)|Stack|
 |240|Search a 2D Matrix|[Python](./Python/questions/SearchA2DMatrixII)|Binary Search|
 |242|Valid Anagram|[Python](./Python/questions/ValidAnagram)|HashSet|
+|257|Binary Tree Paths|[Python](./Python/questions/BinaryTreePaths)|Binary Tree, DFS|
 |268|Missing Number|[Python](./Python/questions/MissingNumber)|Math|
 |278|First Bad Version|[Python](./Python/questions/FirstBadVersion)|Binary Search|
 |295|Find Median from Data Stream|[Python](./Python/questions/FindMedianFromDataStream)|Heap|
