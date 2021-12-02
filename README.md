@@ -77,7 +77,7 @@ Visual Studio Code & Intellij
 |139|Word Break|[Python](./Python/questions/WordBreak)|DP|
 |140|Word Break II|[Python](./Python/questions/WordBreakII)|DFS + Memo|
 |141|Linked List Cycle|[Python](./Python/questions/LinkedListCycle)|Linked List|
-|143|Binary Tree Preorder Traversal|[Python](./Python/questions/ReorderList)|Linked List|
+|143|Reorder Listl|[Python](./Python/questions/ReorderList)|Linked List|
 |144|Binary Tree Preorder Traversal|[Python](./Python/questions/BinaryTreePreorderTraversal)|Binary Tree|
 |145|Binary Tree Postorder Traversal|[Python](./Python/questions/BinaryTreePostorderTraversal)|Binary Tree|
 |146|LRU Cache|[Python](./Python/questions/LRUCache)|Double Linked List + Hashset|
