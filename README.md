@@ -18,6 +18,7 @@ Visual Studio Code & Intellij
 |16|3Sum Closest|[Python](./Python/questions/3SumClosest)|Two Pointers|
 |17|Letter Combinations of a Phone Number|[Python](./Python/questions/LetterCombinationsOfAPhoneNumber)|BFS|
 |23|Merge k Sorted Lists|[Python](./Python/questions/MergeKSortedLists)|Linked List|
+|25|Reverse Nodes in k-Group|[Python](./Python/questions/ReverseNodesInKGroup)|Linked List|
 |26|Remove Duplicates from Sorted Array|[Python](./Python/questions/RemoveDuplicatesFromSortedArray)|Two Pointers|
 |33|Search in Rotated Sorted Array|[Python](./Python/questions/SearchInRotatedSortedArray)|Binary Search|
 |34|Find First and Last Position of Element in Sorted Array|[Python](./Python/questions/FindFirstAndLastPositionOfElementInSortedArray)|Binary Search|
