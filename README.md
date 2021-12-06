@@ -91,6 +91,7 @@ Visual Studio Code & Intellij
 |173|Binary Search Tree Iterator|[Python](./Python/questions/BinarySearchTreeIterator)|Binary Tree|
 |187|Repeated DNA Sequences|[Java](./Java/src/questions/RepeatedDNASequences), [Python](./Python/questions/RepeatedDNASequences)|Hash Table|
 |189|Rotate Array|[Python](./Python/questions/RotateArray)|Two Pointers|
+|198|House Robber|[Python](./Python/questions/HouseRobber)|DP|
 |200|Number of Islands|[Python](./Python/questions/NumberOfIslands)|DFS|
 |205|Isomorphic Strings|[Python](./Python/questions/IsomorphicStrings)|String|
 |206|Reverse Linked List|[Python](./Python/questions/ReverseLinkedList)|Linked List|
