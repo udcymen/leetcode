@@ -52,6 +52,7 @@ Visual Studio Code & Intellij
 |88|Merge Sorted Array|[Python](./Python/questions/MergeSortedArray)||
 |91|Decode Ways|[Python](./Python/questions/DecodeWays)|DP|
 |92|Reverse Linked List II|[Python](./Python/questions/ReverseLinkedListII)|Linked List|
+|94|Binary Tree Inorder Traversal|[Python](./Python/questions/BinaryTreeInorderTraversal)|Binary Tree|
 |97|Interleaving String|[Python](./Python/questions/InterleavingString)|DP|
 |98|Validate Binary Search Tree|[Python](./Python/questions/ValidateBinarySearchTree)|Binary Tree|
 |101|Symmetric Tree|[Python](./Python/questions/SymmetricTree)|Binary Tree|
