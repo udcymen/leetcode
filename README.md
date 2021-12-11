@@ -147,6 +147,7 @@ Visual Studio Code & Intellij
 |1007|Minimum Domino Rotations For Equal Row|[Python](./Python/questions/MinimumDominoRotationsForEqualRow)||
 |1022|Sum of Root To Leaf Binary Numbers|[Java](./Java/src/questions/SumofRootToLeafBinaryNumbers), [Python](./Python/questions/SumofRootToLeafBinaryNumbers)|Binary Tree|
 |1026|Maximum Difference Between Node and Ancestor|[Python](./Python/questions/MaximumDifferenceBetweenNodeAndAncestor)|Binary Tree|
+|1137|N-th Tribonacci Number|[Python](./Python/questions/N-thTribonacciNumber)||
 |1143|Longest Common Subsequence|[Python](./Python/questions/LongestCommonSubsequence)||
 |1217|Minimum Cost to Move Chips to The Same Position|[Python](./Python/questions/MinimumCostToMoveChipsToTheSamePosition)||
 |1239|Maximum Length of a Concatenated String with Unique Characters|[Python](./Python/questions/MaximumLengthOfAConcatenatedStringWithUniqueCharacters)||
