@@ -31,6 +31,7 @@ Visual Studio Code & Intellij
 |49|Group Anagrams|[Python](./Python/questions/GroupAnagrams)|HashSet|
 |50|Pow(x, n)|[Python](./Python/questions/Powx-n)||
 |51|N-Queens|[Python](./Python/questions/NQueens)|DFS|
+|53|Maximum Subarray|[Python](./Python/questions/MaximumSubarray)||
 |54|Spiral Matrix|[Python](./Python/questions/SpiralMatrix)||
 |55|Jump Game|[Python](./Python/questions/JumpGame)|DP, Greedy|
 |56|Merge Intervals|[Python](./Python/questions/MergeIntervals)||
