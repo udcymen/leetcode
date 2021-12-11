@@ -130,7 +130,7 @@ Visual Studio Code & Intellij
 |650|2 Keys Keyboard|[Python](./Python/questions/2KeysKeyboard)|Math|
 |662|Maximum Width of Binary Tree|[Python](./Python/questions/MaximumWidthOfBinaryTree)|Binary Tree|
 |701|Insert into a Binary Search Tree|[Python](./Python/questions/InsertIntoBinarySearchTree)|Binary Tree|
-|703|Binary Search|[Python](./Python/questions/BinarySearch)|Binary Search|
+|704|Binary Search|[Python](./Python/questions/BinarySearch)|Binary Search|
 |735|Asteroid Collision|[Python](./Python/questions/AsteroidCollision)|Stack|
 |739|Daily Temperatures|[Python](./Python/questions/DailyTemperatures)|Stack|
 |832|Flipping an Image|[Python](./Python/questions/FlippingAnImage)|Two Pointers|
