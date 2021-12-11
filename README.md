@@ -68,6 +68,7 @@ Visual Studio Code & Intellij
 |115|Distinct Subsequences|[Python](./Python/questions/DistinctSubsequences)|DP|
 |116|Populating Next Right Pointers in Each Node|[Python](./Python/questions/PopulatingNextRightPointersInEachNode)|Binary Tree|
 |118|Pascal's Triangle|[Python](./Python/questions/Pascal'sTriangle)||
+|119|Pascal's Triangle II|[Python](./Python/questions/Pascal'sTriangleII)||
 |120|Triangle|[Python](./Python/questions/Triangle)|DP|
 |121|Best Time to Buy and Sell Stock|[Java](./Java/src/questions/BestTimeToBuyAndSellStock), [Python](./Python/questions/BestTimeToBuyAndSellStock)||
 |122|Best Time to Buy and Sell Stock II|[Java](./Java/src/questions/BestTimeToBuyAndSellStockII), [Python](./Python/questions/BestTimeToBuyAndSellStockII)||
