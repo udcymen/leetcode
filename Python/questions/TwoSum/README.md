@@ -6,5 +6,5 @@ Python 3.9
 ### Time and Space Complexity:
 Time: O(n)  
 Space: O(n)  
-Actual Time: 464 ms  
-Actual Space: 28.1 MB
+Actual Time: 52 ms  
+Actual Space: 15.6 MB
