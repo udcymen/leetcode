@@ -7,4 +7,4 @@ Python 3.9
 Time: O(n)  
 Space: O(n)  
 Actual Time: 28 ms  
-Actual Space: 14.1 MB
+Actual Space: 14.4 MB
