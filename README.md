@@ -139,6 +139,7 @@ Visual Studio Code & Intellij
 |704|Binary Search|[Python](./Python/questions/BinarySearch)|Binary Search|
 |735|Asteroid Collision|[Python](./Python/questions/AsteroidCollision)|Stack|
 |739|Daily Temperatures|[Python](./Python/questions/DailyTemperatures)|Stack|
+|746|Min Cost Climbing Stairs|[Python](./Python/questions/MinCostClimbingStairs)|DP|
 |832|Flipping an Image|[Python](./Python/questions/FlippingAnImage)|Two Pointers|
 |845|Longest Mountain in Array|[Python](./Python/questions/LongestMountainInArray)||
 |853|Car Fleet|[Python](./Python/questions/CarFleet)||
