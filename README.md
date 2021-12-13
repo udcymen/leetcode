@@ -117,6 +117,7 @@ Visual Studio Code & Intellij
 |329|Longest Increasing Path in a Matrix|[Python](./Python/questions/LongestIncreasingPathInAMatrix)|DFS + Memo|
 |304|Range Sum Query 2D - Immutable|[Python](./Python/questions/RangeSumQuery2D-Immutable)|DP|
 |344|Reverse String|[Python](./Python/questions/ReverseString)|Two Pointers|
+|350|Intersection of Two Arrays II|[Python](./Python/questions/IntersectionOfTwoArraysII)|Hashmap|
 |384|Shuffle an Array|[Python](./Python/questions/ShuffleAnArray)||
 |387|First Unique Character in a String|[Python](./Python/questions/FirstUniqueCharacterInAString)|Stack|
 |394|Decode String|[Python](./Python/questions/DecodeString)|Stack|
