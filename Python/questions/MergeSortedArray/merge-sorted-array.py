@@ -1,25 +1,28 @@
-def merge(nums1: list[int], m: int, nums2: list[int], n: int) -> None:
-    """
-    Do not return anything, modify nums1 in-place instead.
-    """
-    
-    index = m + n - 1
-    m -= 1
-    n -=1
-    
-    while m > -1 and n > -1:
-        a, b = nums1[m], nums2[n]
+from typing import List
+
+
+class Solution:
+    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
+        """
+        Do not return anything, modify nums1 in-place instead.
+        """
+        index1, index2 = m - 1, n - 1
+        index = n + m - 1
         
-        if a > b:
-            nums1[index] = a
-            m -= 1
-        else:
-            nums1[index] = b
-            n -= 1
+        while index1 > -1 and index2 > -1:
+            num1, num2 = nums1[index1], nums2[index2]
             
-        index -= 1
+            if num1 > num2:
+                nums1[index] = num1
+                index1 -= 1
+            else:
+                nums1[index] = num2
+                index2 -= 1
+                
+            index -= 1
         
-    while n > -1:
-        nums1[index] = nums2[n]
-        n -= 1
-        index -= 1
+        while index2 > -1:
+            nums1[index] = nums2[index2]
+            index2 -= 1
+            index -= 1
+            
