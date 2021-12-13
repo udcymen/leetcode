@@ -110,6 +110,7 @@ Visual Studio Code & Intellij
 |257|Binary Tree Paths|[Python](./Python/questions/BinaryTreePaths)|Binary Tree, DFS|
 |268|Missing Number|[Python](./Python/questions/MissingNumber)|Math|
 |278|First Bad Version|[Python](./Python/questions/FirstBadVersion)|Binary Search|
+|283|Move Zeroes|[Python](./Python/questions/MoveZeroes)|Two Pointers|
 |295|Find Median from Data Stream|[Python](./Python/questions/FindMedianFromDataStream)|Heap|
 |310|Minimum Height Trees|[Python](./Python/questions/MinimumHeightTrees)|Graph|
 |322|Coin Change|[Python](./Python/questions/CoinChange)|BFS|
