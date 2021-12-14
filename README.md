@@ -130,6 +130,7 @@ Visual Studio Code & Intellij
 |509|FibonacciNumber|[Python](./Python/questions/FibonacciNumber)|DP|
 |529|Minesweeper|[Python](./Python/questions/Minesweeper)|DFS|
 |563|Binary Tree Tilt|[Python](./Python/questions/BinaryTreeTilt)|Binary Tree|
+|566|ReshapeTheMatrix|[Python](./Python/questions/ReshapeTheMatrix)||
 |567|Permutation in String|[Python](./Python/questions/PermutationInString)|Hashmap|
 |589|N-ary Tree Preorder Traversal|[Python](./Python/questions/N-aryTreePreorderTraversal)|Tree|
 |593|Valid Square|[Python](./Python/questions/ValidSquare)|Math|
