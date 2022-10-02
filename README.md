@@ -140,7 +140,7 @@ Visual Studio Code & Intellij
 |662|Maximum Width of Binary Tree|[Python](./Python/questions/MaximumWidthOfBinaryTree)|Binary Tree|
 |701|Insert into a Binary Search Tree|[Python](./Python/questions/InsertIntoBinarySearchTree)|Binary Tree|
 |704|Binary Search|[Python](./Python/questions/BinarySearch)|Binary Search|
-|724|Find Pivot Index|[Python](./Python/questions/FindPivotIndex)|Stack|
+|724|Find Pivot Index|[Python](./Python/questions/FindPivotIndex)|Prefix Sum|
 |735|Asteroid Collision|[Python](./Python/questions/AsteroidCollision)|Stack|
 |739|Daily Temperatures|[Python](./Python/questions/DailyTemperatures)|Stack|
 |746|Min Cost Climbing Stairs|[Python](./Python/questions/MinCostClimbingStairs)|DP|
@@ -167,6 +167,7 @@ Visual Studio Code & Intellij
 |1333|Filter Restaurants by Vegan-Friendly, Price and Distance|[Python](./Python/questions/FilterRestaurants)||
 |1344|Angle Between Hands of a Clock|[Python](./Python/questions/AngleBetweenHandsOfAClock)|Math|
 |1446|Consecutive Characters|[Python](./Python/questions/ConsecutiveCharacters)||
+|1440|Running Sum of 1d Array|[Python](./Python/questions/RunningSumOf1dArray)|Prefix Sum|
 |1448|Count Good Nodes in Binary Tree|[Python](./Python/questions/CountGoodNodesInBinaryTree)||
 |1551|Minimum Operations to Make Array Equal|[Python](./Python/questions/MinimumOperationsToMakeArrayEqual)|Math|
 |1594|Maximum Non Negative Product in a Matrix|[Python](./Python/questions/MaximumNonNegativeProductInAMatrix)|DP|
