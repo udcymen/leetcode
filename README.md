@@ -140,6 +140,7 @@ Visual Studio Code & Intellij
 |662|Maximum Width of Binary Tree|[Python](./Python/questions/MaximumWidthOfBinaryTree)|Binary Tree|
 |701|Insert into a Binary Search Tree|[Python](./Python/questions/InsertIntoBinarySearchTree)|Binary Tree|
 |704|Binary Search|[Python](./Python/questions/BinarySearch)|Binary Search|
+|724|Find Pivot Index|[Python](./Python/questions/FindPivotIndex)|Stack|
 |735|Asteroid Collision|[Python](./Python/questions/AsteroidCollision)|Stack|
 |739|Daily Temperatures|[Python](./Python/questions/DailyTemperatures)|Stack|
 |746|Min Cost Climbing Stairs|[Python](./Python/questions/MinCostClimbingStairs)|DP|
